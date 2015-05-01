@@ -1,0 +1,4 @@
+javascript: document.getElementsByName('username').item(0).value='akshay_sri95@yahoo.co.in';
+document.getElementsByName('passwd').item(0).value='sri123';
+document.getElementsByName('signin').item(0).click();
+void(0);
